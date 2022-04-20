@@ -1,0 +1,21 @@
+{
+    "name": "dark-plus-vivid",
+    "displayName": "Dark+ Vivid",
+    "description": "Visual Studio Code Dark+ Theme with more vivid color palette",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "fangchunxi1999",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fangchunxi1999-color-theme.json"
+            }
+        ]
+    }
+}
