@@ -1,6 +1,35 @@
 {
     "name": "fangchunxi1999",
     "colors": {
+        "foreground": "#c2c2c2",
+
+        //"titleBar.activeForeground": "#ffffffc0",
+        "titleBar.activeBackground": "#2c2c2c",
+        "titleBar.inactiveBackground": "#2c2c2c",
+
+        "menu.foreground": "#ffffffc0",
+        "menu.background": "#212121",
+        "menu.selectionBackground": "#ffffff10",
+
+        "tab.activeBackground": "#212121",
+        "tab.inactiveBackground": "#2c2c2c",
+        "tab.hoverBackground": "#ffffff10",
+
+        "tab.border": "#ffffff00",
+        "tab.lastPinnedBorder": "#ffffff00",
+        "editorGroupHeader.tabsBackground": "#2c2c2c",
+
+        "breadcrumb.background": "#212121",
+
+        "activityBar.background": "#2c2c2c",
+        "activityBar.activeBackground": "#1976d240",
+        "activityBarBadge.foreground": "#ffffff",
+        "activityBarBadge.background": "#2196f3",
+
+        "sideBar.background": "#212121",
+        "sideBarSectionHeader.background": "#2c2c2c",
+        "list.hoverBackground": "#ffffff10",
+
         "editor.background": "#1b1b1b",
         "editor.foreground": "#f0f0f0"
     },
